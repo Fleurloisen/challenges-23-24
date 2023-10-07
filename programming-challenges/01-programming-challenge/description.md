@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-This challenge will give you a first glimpse at programming. 
+This challenge will give you a first glimpse at programming.
 
 You will learn how to program vehicles to make them navigate a maze.
 
@@ -18,11 +18,12 @@ In that case, overwrite the file "student.js" in the challenge folder with the f
 
 ## 2. Challenge
 
-Complete all levels up to and including "zigZag". All levels after "zigZag" are optional. 
+Complete all levels up to and including "zigZag". All levels after "zigZag" are optional.
 
 To complete this challenge, commit the following:
-* A screenshot from the file `tests.html` opened in the browser. Make sure that the green squares are visible in your screenshot so we can see how far you got. 
-* The file `student.js` with all your written code
+
+- A screenshot from the file `tests.html` opened in the browser. Make sure that the green squares are visible in your screenshot so we can see how far you got.
+- The file `student.js` with all your written code
 
 ## 3. Extra
 
